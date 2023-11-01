@@ -10,7 +10,7 @@
 <p align="center"><span style="font-size: 14px;">Singh offers a harmonious blend of creativity, exploration, and innovation for both novice and experienced players.</span>&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p align="center"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/2u34P3pwxKU?si=7is3KEyCy-XAlQZD" height="315" width="560"></iframe>&nbsp;</p>
+<p align="center">[![Singh modpack trailer](https://img.youtube.com/vi/2u34P3pwxKU/0.jpg)](https://www.youtube.com/watch?v=2u34P3pwxKU)&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center"><img src="https://i.ibb.co/J7RNgLt/minecraft-title-1.png" /></p>
 <p align="center">Embark on a grand adventure with a plethora of <strong>new dimensions</strong>, <strong>structures</strong>, and <strong>biomes</strong> to discover.</p>
