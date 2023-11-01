@@ -1,0 +1,428 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				zombie = true
+				spider = true
+				skeleton = true
+				pig = true
+				husk = true
+				sheep = true
+				cave_spider = true
+				villager = true
+				creeper = true
+				item = true
+				area_effect_cloud = true
+				slime = true
+				salmon = true
+				bat = true
+				chicken = true
+				glow_squid = true
+				vindicator = true
+				squid = true
+				cod = true
+				pillager = true
+				chest_minecart = true
+				drowned = true
+				cow = true
+				horse = true
+				enderman = true
+				skeleton_horse = true
+				bee = true
+				witch = true
+				armor_stand = true
+				turtle = true
+				zombie_villager = true
+				experience_orb = true
+				tnt_minecart = true
+				arrow = true
+				evoker = true
+				cat = true
+				zombie_horse = true
+				item_frame = true
+				tropical_fish = true
+				wandering_trader = true
+				stray = true
+				giant = true
+				allay = true
+				zombified_piglin = true
+				axolotl = true
+				wither_skeleton = true
+				wolf = true
+				frog = true
+				illusioner = true
+				experience_bottle = true
+				painting = true
+				rabbit = true
+				snow_golem = true
+				silverfish = true
+				snowball = true
+				guardian = true
+				parrot = true
+				pufferfish = true
+				ocelot = true
+				dolphin = true
+				potion = true
+				trident = true
+				boat = true
+				fox = true
+				lightning_bolt = true
+				fishing_bobber = true
+				phantom = true
+				vex = true
+				fireball = true
+				iron_golem = true
+				trader_llama = true
+				evoker_fangs = true
+				egg = true
+				llama = true
+				donkey = true
+				shulker = true
+				hoglin = true
+				mooshroom = true
+				ravager = true
+
+			[light_sources.settings.entities.betteranimalsplus]
+				boar = true
+				songbird = true
+				nautilus = true
+				shark = true
+				jellyfish = true
+				badger = true
+				bobbit_worm = true
+				pheasant = true
+				whale = true
+				lamprey = true
+				eel_freshwater = true
+				coyote = true
+				goose = true
+				turkey = true
+				blackbear = true
+				squirrel = true
+				brownbear = true
+				badgerdirt = true
+				deer = true
+				feralwolf = true
+				piranha = true
+				eel_saltwater = true
+				flying_fish = true
+				octopus = true
+				barracuda = true
+				tarantula = true
+				horseshoecrab = true
+				crab = true
+				dragonfly = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				mauler = true
+				rascal = true
+				glare = true
+				moobloom = true
+				copper_golem = true
+
+			[light_sources.settings.entities.promenade]
+				duck = true
+				lush_creeper = true
+				sunken_skeleton = true
+
+			[light_sources.settings.entities.rottencreatures]
+				undead_miner = true
+
+			[light_sources.settings.entities.worldoffeather]
+				magpie = true
+				raven = true
+				hooded_crow = true
+
+			[light_sources.settings.entities.mythicmobs]
+				kobold = true
+				drake = true
+				chupacabra = true
+				kobold_warrior = true
+				mushroom_thing = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				orc = true
+				deer = true
+				summoner = true
+				amethyst_shard = true
+
+			[light_sources.settings.entities.hybrid-aquatic]
+				starfish = true
+				sea_cucumber = true
+				sea_urchin = true
+				anglerfish = true
+				blue_spotted_stingray = true
+				stonefish = true
+				moon_jelly = true
+				rockfish = true
+				toadfish = true
+				fiddler_crab = true
+				crab = true
+				hermit_crab = true
+				giant_clam = true
+				clownfish = true
+				sea_nettle = true
+				unicorn_fish = true
+				cowfish = true
+				triggerfish = true
+				blue_tang = true
+				mahimahi = true
+				needlefish = true
+				cuttlefish = true
+				flashlight_fish = true
+				nudibranch = true
+				moray_eel = true
+				lionfish = true
+				glowing_sucker_octopus = true
+				seahorse = true
+				oscar = true
+				discus = true
+				zebra_danio = true
+				piranha = true
+				betta = true
+				opah = true
+				yellowfin_tuna = true
+
+			[light_sources.settings.entities.mozombies_wave]
+				zombie_notch = true
+				zombie_miner = true
+				zombie_creeper = true
+				disco_zombie = true
+				zombie_pirate = true
+				zombie_king = true
+				zombie_chef = true
+				zombie_dwarf = true
+				zombie_pa = true
+				zombie_cyborg = true
+				zombie_knight = true
+				survivor = true
+				zombie_herobrine = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.lilwings]
+				swallow_tail_butterfly = true
+				grayling_butterfly = true
+				painted_panther_butterfly = true
+				red_applefly_butterfly = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.chococraft]
+				chocobo = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				koi_fish = true
+				otter = true
+				ferret = true
+				leaf_insect = true
+				sea_bunny = true
+				dragonfly = true
+
+			[light_sources.settings.entities.naturalist]
+				bass = true
+				snail = true
+				butterfly = true
+				robin = true
+				duck = true
+				snake = true
+				bluejay = true
+				tortoise = true
+				catfish = true
+				lizard = true
+				canary = true
+				cardinal = true
+				bear = true
+				boar = true
+				rhino = true
+				zebra = true
+				lion = true
+				giraffe = true
+				elephant = true
+				firefly = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+				duck_egg = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				snowy_creeper = true
+				dripstone_creeper = true
+				swamp_creeper = true
+				beach_creeper = true
+				ocean_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				hills_creeper = true
+				spruce_creeper = true
+				savannah_creeper = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.graveyard]
+				skeleton_creeper = true
+				nightmare = true
+				revenant = true
+				ghoul = true
+				nameless_hanged = true
+				corrupted_pillager = true
+				corrupted_vindicator = true
+				acolyte = true
+
+			[light_sources.settings.entities.takesapillage]
+				archer = true
+				skirmisher = true
+				clay_golem = true
+				legioner = true
+
+			[light_sources.settings.entities.enderzoology]
+				infested_zombie = true
+				fallen_mount = true
+				fallen_knight = true
+				concussion_creeper = true
+				wither_cat = true
+				wither_witch = true
+				enderminy = true
+
+			[light_sources.settings.entities.frozenup]
+				reindeer = true
+
+			[light_sources.settings.entities.shroom_dealers]
+				champignon_dealer = true
+				toadstool_dealer = true
+				amethyst_deceiver_dealer = true
+				bay_bolete_dealer = true
+
+			[light_sources.settings.entities.miskatonicmysteries]
+				hastur_cultist = true
+				bolt = true
+				energy_tentacle = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_zombie = true
+				mutant_skeleton = true
+				mutant_creeper = true
+				creeper_minion = true
+				mutant_arrow = true
+
+			[light_sources.settings.entities.soulsweapons]
+				dark_sorcerer = true
+				moonknight = true
+				big_chungus = true
+				remnant = true
+				moonlight_projectile = true
+				big_moonlight_projectile = true
+				vertical_moonlight_projectile = true
+
+			[light_sources.settings.entities.mimic]
+				mimic = true
+
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
+
+			[light_sources.settings.entities.uselesscreature]
+				uselesscreature = true
+
+			[light_sources.settings.entities.probablychests]
+				lush_chest_mimic = true
+				normal_chest_mimic = true
+				stone_chest_mimic = true
+
+			[light_sources.settings.entities.weeping_angels]
+				weeping_angel = true
+
+			[light_sources.settings.entities.charm]
+				coral_squid = true
+				chair = true
+
+			[light_sources.settings.entities.mythicmounts]
+				dragon = true
+				geckotoalizard = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+
+			[light_sources.settings.entities.mcdar]
+				golem_kit_golem = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+
+			[light_sources.settings.entities.forgotten_features]
+				fire_fly = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
+
+			[light_sources.settings.entities.aylyth]
+				scion = true
+				pilot_light = true
+				faunaylythian = true
+				aylythian = true
+
+			[light_sources.settings.entities.tumbleweed]
+				tumbleweed = true
+
+			[light_sources.settings.entities.frostiful]
+				frost_tipped_arrow = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_projectile = true
+
+			[light_sources.settings.entities.twilightforest]
+				hydra = true
+				dwarf_rabbit = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				badlands_enderman = true
+				cave_enderman = true
+				crimson_forest_enderman = true
+				dark_oak_enderman = true
+				desert_enderman = true
+				end_enderman = true
+				end_islands_enderman = true
+				flower_fields_enderman = true
+				ice_spikes_enderman = true
+				savanna_enderman = true
+				snowy_enderman = true
+				soulsand_valley_enderman = true
+				swamp_enderman = true
+				warped_forest_enderman = true
+				windswept_hills_enderman = true
+				spirit = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+
+			[light_sources.settings.entities.brutalbosses]
+				thrownitem = true
+

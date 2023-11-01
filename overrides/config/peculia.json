@@ -1,0 +1,51 @@
+{
+  "mobs": {
+    "vanillaMobsConfig": {
+      "ghastConfig": {
+        "stat_increase": true
+      },
+      "witherConfig": {
+        "stagnated_on_hit": true,
+        "stat_increase": true
+      },
+      "wardenConfig": {
+        "cursed_on_hit": true,
+        "stunned_from_sonic_boom": true,
+        "stat_increase": true
+      }
+    }
+  },
+  "visualEffects": {
+    "visualEffectsConfig": {
+      "particlesConfig": {
+        "ichor_leap_particles": true
+      }
+    }
+  },
+  "items": {
+    "itemsConfig": {
+      "itemChances": {
+        "soul_harvest_chance": 10,
+        "echoing_chance": 25,
+        "visuality_night_vision": 45,
+        "satiated_saturation": 75
+      },
+      "potionItemsConfig": {
+        "allow_darkness_potions": true,
+        "allow_ichor_potions": true
+      },
+      "itemChanges": {
+        "milk_rework": true
+      }
+    }
+  },
+  "blocks": {
+    "blocksConfig": {
+      "blockChances": {
+        "titans_blood_burn_chance": 10,
+        "perforated_jaw_fakeout_bite_chance": 50,
+        "perforated_jaw_stunned_on_bite_chance": 25
+      }
+    }
+  }
+}
