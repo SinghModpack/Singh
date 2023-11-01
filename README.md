@@ -1,8 +1,8 @@
 <p align="center"><span style="font-size: 18px; color: #ff0000;"><strong><span style="color: #ffff00;">This modpack is under active development. Stay tuned!!!</span><br /></strong></span></p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/nkt8q19/minecraft-title.png" width="454" height="134" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/nkt8q19/minecraft-title.png" width="454" height="134" /></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;<span style="font-size: 14px;">Dive into a world of enchantment and adventure like never before with <span style="color: #008000; font-size: 18px;"><strong>Singh</strong></span>, </span></p>
 <p align="center"><span style="font-size: 14px;">a meticulously curated modpack that takes your Minecraft experience to the next level.</span></p>
 <p align="center">&nbsp;</p>
@@ -12,7 +12,7 @@
 <p align="center">&nbsp;</p>
 <p align="center"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/2u34P3pwxKU?si=7is3KEyCy-XAlQZD" height="315" width="560"></iframe>&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p><img src="https://i.ibb.co/J7RNgLt/minecraft-title-1.png" /></p>
+<p align="center"><img src="https://i.ibb.co/J7RNgLt/minecraft-title-1.png" /></p>
 <p align="center">Embark on a grand adventure with a plethora of <strong>new dimensions</strong>, <strong>structures</strong>, and <strong>biomes</strong> to discover.</p>
 <p align="center">This modpack is all about exploring and gathering powerful artefacts.</p>
 <p align="center">&nbsp;</p>
@@ -27,9 +27,9 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p><a href="https://i.ibb.co/j3q5png/minecraft-title-2.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/j3q5png/minecraft-title-2.png" width="688" height="63" /></a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center"><a href="https://i.ibb.co/j3q5png/minecraft-title-2.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/j3q5png/minecraft-title-2.png" width="688" height="63" /></a></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center"><strong>Singh</strong> offers an <strong>immersive gaming experience</strong> with mods like <a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus">Better Combat</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/zenith">Zenith</a>,</p>
 <p align="center">improving your survival skills and taking your battles to a whole new level.</p>
@@ -45,8 +45,8 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p style="text-align: left;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/sH8Cm4X/minecraft-title-3.png" width="847" height="72" /></p>
-<p>&nbsp;</p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/sH8Cm4X/minecraft-title-3.png" width="847" height="72" /></p>
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center"><strong>Singh</strong> doesn't just offer functionality;</p>
@@ -59,11 +59,11 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/nDyt3Zk/minecraft-title-4.png" width="633" height="70" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/nDyt3Zk/minecraft-title-4.png" width="633" height="70" /></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 <p align="center"><strong>Singh</strong> is designed to offer an <strong>enriched and balanced experience</strong>;</p>
 <p align="center">it is a modpack that caters to <strong>all playstyles</strong>,</p>
 <p align="center">whether you're into plain sword and shield fighting, magical exploits, or creative building.</p>
@@ -74,11 +74,11 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/6JSmRMd/minecraft-title-5.png" width="857" height="67" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/6JSmRMd/minecraft-title-5.png" width="857" height="67" /></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 <p align="center">With countless possibilities and exciting adventures waiting for you,</p>
 <p align="center">Singh opens the door to a world of endless exploration and creativity.</p>
 <p align="center">&nbsp;</p>
@@ -86,6 +86,6 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center"><span style="font-size: 24px;"><strong>Install <span style="color: #008000;">Singh</span> now</strong> and let the journey begin. <strong>Adventure awaits</strong>, and the possibilities are endless!</span></p>
-<p>&nbsp;<br /><br /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center">&nbsp;<br /><br /></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
