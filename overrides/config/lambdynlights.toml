@@ -103,6 +103,9 @@ mode = "fancy"
 				hoglin = true
 				mooshroom = true
 				ravager = true
+				magma_cube = true
+				endermite = true
+				small_fireball = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				boar = true
@@ -205,6 +208,22 @@ mode = "fancy"
 				betta = true
 				opah = true
 				yellowfin_tuna = true
+				frilled_shark = true
+				great_white_shark = true
+				hammerhead_shark = true
+				thresher_shark = true
+				bull_shark = true
+				basking_shark = true
+				vampire_squid = true
+				tiger_shark = true
+				whale_shark = true
+				firefly_squid = true
+				dragonfish = true
+				barreleye = true
+				ratfish = true
+				sunfish = true
+				nautilus = true
+				oarfish = true
 
 			[light_sources.settings.entities.mozombies_wave]
 				zombie_notch = true
@@ -332,6 +351,7 @@ mode = "fancy"
 				mutant_creeper = true
 				creeper_minion = true
 				mutant_arrow = true
+				body_part = true
 
 			[light_sources.settings.entities.soulsweapons]
 				dark_sorcerer = true
@@ -419,10 +439,17 @@ mode = "fancy"
 				warped_forest_enderman = true
 				windswept_hills_enderman = true
 				spirit = true
+				ocean_enderman = true
 
 			[light_sources.settings.entities.create]
 				super_glue = true
 
 			[light_sources.settings.entities.brutalbosses]
 				thrownitem = true
+
+			[light_sources.settings.entities.reaping]
+				reaping_pillager = true
+
+			[light_sources.settings.entities.ad_astra]
+				glacian_ram = true
 
