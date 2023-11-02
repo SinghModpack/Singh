@@ -106,6 +106,9 @@ mode = "fancy"
 				magma_cube = true
 				endermite = true
 				small_fireball = true
+				ender_pearl = true
+				firework_rocket = true
+				panda = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				boar = true
@@ -285,6 +288,7 @@ mode = "fancy"
 				giraffe = true
 				elephant = true
 				firefly = true
+				coral_snake = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -387,6 +391,7 @@ mode = "fancy"
 			[light_sources.settings.entities.mythicmounts]
 				dragon = true
 				geckotoalizard = true
+				courierbird = true
 
 			[light_sources.settings.entities.goblintraders]
 				goblin_trader = true
@@ -409,6 +414,7 @@ mode = "fancy"
 				pilot_light = true
 				faunaylythian = true
 				aylythian = true
+				wreathed_hind = true
 
 			[light_sources.settings.entities.tumbleweed]
 				tumbleweed = true
@@ -422,6 +428,24 @@ mode = "fancy"
 			[light_sources.settings.entities.twilightforest]
 				hydra = true
 				dwarf_rabbit = true
+				bighorn_sheep = true
+				tiny_bird = true
+				deer = true
+				boar = true
+				kobold = true
+				raven = true
+				giant_miner = true
+				armored_giant = true
+				swarm_spider = true
+				squirrel = true
+				protection_box = true
+				death_tome = true
+				slime_beetle = true
+				slime_blob = true
+				redcap = true
+				redcap_sapper = true
+				pinch_beetle = true
+				charm_effect = true
 
 			[light_sources.settings.entities.endermanoverhaul]
 				badlands_enderman = true
