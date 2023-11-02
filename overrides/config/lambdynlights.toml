@@ -378,6 +378,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.weeping_angels]
 				weeping_angel = true
+				generator = true
 
 			[light_sources.settings.entities.charm]
 				coral_squid = true
