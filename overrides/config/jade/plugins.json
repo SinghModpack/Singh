@@ -54,10 +54,6 @@
   "levelz": {
     "mineable_info": true
   },
-  "strawgolem": {
-    "strawgolem_enabled": true,
-    "strawgolem": true
-  },
   "zenith": {
     "spawner": true,
     "enchantment_power": true
@@ -69,9 +65,6 @@
     "sieve": true,
     "infesting_leaves": true
   },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -79,6 +72,24 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "beautify": {
+    "hanging_pot.pot_flower": true
+  },
+  "platforms": {
+    "hud": true
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+  "strawgolem": {
+    "strawgolem_enabled": true,
+    "strawgolem": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
   },
   "create": {
     "filter": true,
@@ -91,10 +102,10 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "beautify": {
-    "hanging_pot.pot_flower": true
-  },
   "waystones": {
     "waystone": true
+  },
+  "multibeds": {
+    "hud": true
   }
 }

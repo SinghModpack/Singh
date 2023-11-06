@@ -142,6 +142,8 @@ mode = "fancy"
 				dragonfly = true
 				tarantulahair = true
 				lammergeier = true
+				squid_giant = true
+				squid_colossal = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				mauler = true
@@ -383,6 +385,7 @@ mode = "fancy"
 				lush_chest_mimic = true
 				normal_chest_mimic = true
 				stone_chest_mimic = true
+				rocky_chest_mimic = true
 
 			[light_sources.settings.entities.weeping_angels]
 				weeping_angel = true
@@ -397,6 +400,7 @@ mode = "fancy"
 				dragon = true
 				geckotoalizard = true
 				courierbird = true
+				moth = true
 
 			[light_sources.settings.entities.goblintraders]
 				goblin_trader = true
@@ -452,6 +456,27 @@ mode = "fancy"
 				redcap_sapper = true
 				pinch_beetle = true
 				charm_effect = true
+				naga = true
+				lich = true
+				lich_bolt = true
+				lich_bomb = true
+				lich_minion = true
+				skeleton_druid = true
+				nature_bolt = true
+				troll = true
+				tome_bolt = true
+				hedge_spider = true
+				yeti = true
+				winter_wolf = true
+				wraith = true
+				king_spider = true
+				mist_wolf = true
+				mosquito_swarm = true
+				minotaur = true
+				maze_slime = true
+				fire_beetle = true
+				minoshroom = true
+				hydra_mortar = true
 
 			[light_sources.settings.entities.endermanoverhaul]
 				badlands_enderman = true
