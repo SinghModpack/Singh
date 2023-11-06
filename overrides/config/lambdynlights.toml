@@ -140,6 +140,8 @@ mode = "fancy"
 				horseshoecrab = true
 				crab = true
 				dragonfly = true
+				tarantulahair = true
+				lammergeier = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				mauler = true
@@ -155,6 +157,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.rottencreatures]
 				undead_miner = true
+				dead_beard = true
 
 			[light_sources.settings.entities.worldoffeather]
 				magpie = true
@@ -306,6 +309,7 @@ mode = "fancy"
 				hills_creeper = true
 				spruce_creeper = true
 				savannah_creeper = true
+				badlands_creeper = true
 
 			[light_sources.settings.entities.levelz]
 				level_experience_orb = true
@@ -387,6 +391,7 @@ mode = "fancy"
 			[light_sources.settings.entities.charm]
 				coral_squid = true
 				chair = true
+				moobloom = true
 
 			[light_sources.settings.entities.mythicmounts]
 				dragon = true
@@ -421,6 +426,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.frostiful]
 				frost_tipped_arrow = true
+				chillager = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
@@ -468,6 +474,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.create]
 				super_glue = true
+				stationary_contraption = true
 
 			[light_sources.settings.entities.brutalbosses]
 				thrownitem = true
