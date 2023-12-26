@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Basic Nether Ores 16x">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/overrides/resourcepacks/Basic Nether Ores 16x.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

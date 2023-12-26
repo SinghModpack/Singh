@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/6 - Chests Reimagined [v1.5].zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/7 - Torches Reimagined [v1.3.1].zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/2 - Open Darkmode 2.4.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/5 - Villager Variety - All Mixed [V1].zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/3 - MandalasGUI Legacy Modded Dakmode v4.6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/Basic Nether Ores 16x.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/TZP_1.19.2_2.6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/0 - Dramatic Skys Demo 1.5.3.13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/8 - Better Leaves 7.1-1.19+.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/Shield Corrections [Colored].zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/1 - Simple Click.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/Better_Cats_V0.09.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/FA+Objects-v1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/4 - Icon Xaero's 1.09.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overrides/config/openloader/resources/EnderEyes_1.19_v2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
