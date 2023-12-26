@@ -1,4 +1,4 @@
-#Mon Nov 06 00:53:27 CET 2023
+#Tue Dec 26 02:43:02 CET 2023
 shadowDistance=96.0
 LIGHT_COLOR_MULTS=true
 CLOUD_QUALITY=1

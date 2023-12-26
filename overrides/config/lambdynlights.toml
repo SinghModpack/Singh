@@ -109,6 +109,7 @@ mode = "fancy"
 				ender_pearl = true
 				firework_rocket = true
 				panda = true
+				minecart = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				boar = true
@@ -144,6 +145,7 @@ mode = "fancy"
 				lammergeier = true
 				squid_giant = true
 				squid_colossal = true
+				butterfly = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				mauler = true
@@ -256,6 +258,7 @@ mode = "fancy"
 				grayling_butterfly = true
 				painted_panther_butterfly = true
 				red_applefly_butterfly = true
+				aponi_butterfly = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -271,6 +274,7 @@ mode = "fancy"
 				leaf_insect = true
 				sea_bunny = true
 				dragonfly = true
+				red_panda = true
 
 			[light_sources.settings.entities.naturalist]
 				bass = true
@@ -340,6 +344,7 @@ mode = "fancy"
 				wither_cat = true
 				wither_witch = true
 				enderminy = true
+				owl = true
 
 			[light_sources.settings.entities.frozenup]
 				reindeer = true
@@ -371,6 +376,7 @@ mode = "fancy"
 				moonlight_projectile = true
 				big_moonlight_projectile = true
 				vertical_moonlight_projectile = true
+				returning_knight = true
 
 			[light_sources.settings.entities.mimic]
 				mimic = true
@@ -386,6 +392,7 @@ mode = "fancy"
 				normal_chest_mimic = true
 				stone_chest_mimic = true
 				rocky_chest_mimic = true
+				coral_chest_mimic = true
 
 			[light_sources.settings.entities.weeping_angels]
 				weeping_angel = true

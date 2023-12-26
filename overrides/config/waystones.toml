@@ -40,7 +40,7 @@ creativeWarpButtonY = 33
 [worldGen]
 worldGenStyle = "BIOME"
 frequency = 25
-dimensionAllowList = ["minecraft:overworld", "minecraft:the_nether", "minecraft:the_end"]
+dimensionAllowList = []
 dimensionDenyList = []
 nameGenerationMode = "PRESET_FIRST"
 customWaystoneNames = []

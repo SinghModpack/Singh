@@ -344,6 +344,7 @@
     },
     "map_tweaks": {
       "random_adventurer_maps": true,
+      "random_adventurer_maps_select_random_structure": true,
       "block_map_markers": true,
       "death_marker": "WITH_COMPASS",
       "colored_map": true

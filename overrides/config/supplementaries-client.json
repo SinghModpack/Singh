@@ -72,6 +72,7 @@
     }
   },
   "general": {
+    "no_optifine_warn_screen": false,
     "config_button": true,
     "tooltip_hints": true,
     "placeable_tooltips": true,
